@@ -1,9 +1,9 @@
 [
   {
     "name": "kube-news",
-    "description": "A platform for implementing security programs.",
-    "stage": "live",
-    "team": "SPIO",
+    "description": "Uma plataforma de Noticias",
+    "stage": "Em Operação",
+    "team": "Datena",
     "dev": {
       "slack": "securityprogramio",
       "github": "github.com/jemurai/spio",
